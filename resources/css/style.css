@@ -1,11 +1,11 @@
 h1 {
-  font-family: Verdana, sans-serif;
   font-weight: bold;
   font-size: 50px;
   color: white;
 }
 
 #page {
+  font-family: Verdana, sans-serif;
   background-color: black;
   text-align: center;
 }
