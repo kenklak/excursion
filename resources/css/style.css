@@ -1,6 +1,9 @@
-#main {
+body {
   font-family: Verdana, sans-serif;
   background-color: black;
+}
+
+#main {
   text-align: center;
 }
 #footing {
@@ -22,6 +25,7 @@ h2 {
 h3 {
   color: gray;
   font-size: 21px;
+  font-weight: normal;
 }
 
 a {
