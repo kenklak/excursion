@@ -1,3 +1,9 @@
+#main {
+  font-family: Verdana, sans-serif;
+  background-color: black;
+  text-align: center;
+}
+
 h1, h2 {
   color: white;
 }
@@ -13,12 +19,6 @@ h2 {
 h3 {
   text-align: right;
   color: gray;
-}
-
-#page {
-  font-family: Verdana, sans-serif;
-  background-color: black;
-  text-align: center;
 }
 
 a {
